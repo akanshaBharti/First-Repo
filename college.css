@@ -1,0 +1,146 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+   
+}
+
+.nav{
+    background-color: rgba(28, 30, 28, 0.817);
+    
+}
+
+.nav a{
+    text-transform: uppercase;
+    color: white;
+    text-decoration: none;
+    word-spacing: 3px;
+    
+}
+.nav a:hover{
+     color: rgba(255, 0, 0, 0.692);
+}
+header{
+    text-transform: uppercase ;
+    color: rgba(108, 31, 31, 0.769);
+    font-size:xx-large ;
+    padding-top: 20px;
+    text-align: center;
+    
+}
+h4 {
+    text-align: center;
+    padding-bottom: 20px;
+    
+}
+.heading{
+    background-color: bisque;
+    margin: 0;
+}
+.about {
+    background-color: rgba(159, 43, 43, 0.923);
+    padding: 10px;
+    text-align: center;
+    top: 0px;
+    width: 100%;
+    position:sticky;
+
+}
+.about a{
+    text-decoration: none;
+    color: white;
+   word-spacing: 3px;
+  
+}
+.about a:hover{
+    background-color: rgb(116, 71, 71);
+    color: white;
+    padding: 10px;
+}
+.college_image{
+    position: relative;
+    width: 50%;
+}
+.box{
+    display: flex;
+    background-color: bisque;
+    
+   
+}
+.notice,.focus,.updates{
+    width: 30%;
+    height: 500px;
+    border: none;
+    border-radius: 12px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 20px;
+    background-color: white;
+    
+
+}
+.notice{
+    margin-left: 60px;
+}
+.focus{
+    margin: 25px;
+}
+.updates{
+    margin-right: 60px;
+}
+#notice,#focus,#updates{
+    font-size: large;
+    background-color: rgb(22, 22, 73);
+    color: white;
+    padding-bottom: 10px;
+    border-radius: 8px;
+}
+.box2{
+    display: flex;
+}
+.desk,.media,.achieve{
+    width: 30%;
+    height: 500px;
+    border-radius: 7px;
+    margin-top: 20px;
+    background-color: rgba(95, 158, 160, 0.141);
+    
+}
+div>img{
+    border-radius: 7px;
+}
+.desk{
+    margin-left: 60px;
+}
+.media{
+    margin: 25px;
+}
+.achieve{
+    margin-right: 60px;
+}
+#desk{
+    font-family: cursive;
+}
+p{
+    text-align: justify;
+    padding: 30px;
+    padding-top: 0px;
+}
+input[type="button"]{
+    margin-left: 30px;
+    padding: 12px;
+    border-radius: 7px;
+    background-color: rgb(159, 43, 43);
+    color: white;
+    border: none;
+
+}
+input[type="button"]:hover{
+    background-color: rgb(85, 85, 108);
+}
+.box2:hover{
+    display: move;
+}
+
+    
