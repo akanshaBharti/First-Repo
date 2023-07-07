@@ -1,6 +1,6 @@
 # Clone of Hansraj Website
 
-Created a Clone of the Hansraj College Website using HTML and CSS. 
+Created a Clone of the Hansraj College Website's Home using HTML and CSS. 
 
 ![Screenshot 2023-07-04 005307](https://github.com/akanshaBharti/Layout-of-college-website/assets/112724805/50074ca5-159e-4315-9509-825a828ad434)
 
